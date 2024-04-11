@@ -1,6 +1,6 @@
 // Your code here
 document.addEventListener("DOMContentLoaded", () => {
-    const url = ('http://localhost:3000/films');
+    const url = ('https://json-server-code-challenge-3.onrender.com/');
     const description = document.getElementById('film-info')
     const movieList = document.getElementById('films');
     const poster = document.getElementById('poster');
